@@ -1,0 +1,11 @@
+Screen_Shot_2015-11-03_at _2.00.52_PM_(2).png
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assests/photoshop/
+assests/videos/
+!assests/videos/tour_*.mp4
+
